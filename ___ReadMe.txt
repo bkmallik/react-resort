@@ -4,7 +4,7 @@ npm install --save react-router-dom
 (how to use react router dom in 6video)
 use exact in "/"route 
 
-
+npm 
 
 
 ==============
